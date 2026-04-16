@@ -10,9 +10,9 @@ pip install -r requirements.txt
 ## 2. Ejecutar:
 
 python main.py
-
-O
-
+##
+## O
+##
 ## 🧩 Convertir el proyecto a .exe (Windows)
 
 Este proyecto se puede convertir en un archivo ejecutable usando **PyInstaller**.
