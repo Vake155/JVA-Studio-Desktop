@@ -1,0 +1,28 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Modelos de IA descargados (grandes)
+*.onnx
+.u2net/
+
+# Archivos temporales
+*.log
+*.tmp
+
+_internal/
